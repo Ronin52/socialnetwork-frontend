@@ -1,7 +1,6 @@
 {
   "name": "front",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "start": "live-server --entry-file=index.html"
@@ -10,5 +9,15 @@
   "license": "ISC",
   "dependencies": {
     "live-server": "^1.2.1"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ronin52/socialnetwork-frontend.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Ronin52/socialnetwork-frontend/issues"
+  },
+  "homepage": "https://github.com/Ronin52/socialnetwork-frontend#readme",
+  "description": ""
 }
